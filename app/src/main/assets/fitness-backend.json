@@ -1,0 +1,24 @@
+{
+"Datasource":[
+{
+"dataType":"Blood sugar",
+"value":"125mg/dL"
+},
+{
+"dataType":"Blood Pressure",
+"value":"120/90 mm/Hg"
+},
+{
+"dataType":"Oxygen saturation level",
+"value":"97%"
+},
+{
+"dataType":"Respiration level",
+"value":"17 breathes/min"
+},
+{
+"dataType":"Heart rate",
+"value":"50 beats/min"
+}
+]
+}
